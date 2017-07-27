@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=Chrome_Home_Button
+name=Home Button for Chrome/Beta/Dev
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Philipp Christodoulou
+description=Enables the use of a Home Button in Chrome on every Device
 template=4
